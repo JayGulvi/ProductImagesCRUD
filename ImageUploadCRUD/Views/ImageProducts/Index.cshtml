@@ -1,0 +1,65 @@
+﻿@model List<ProductsList>
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<style>
+    .card {
+        width: 18rem;
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+        .card:hover {
+            transform: scale(1.05); 
+            box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3); 
+        }
+
+    .card-img-top {
+        height: 100%;
+        object-fit: cover; 
+    }
+
+    .card-container {
+        display: flex;
+        gap: 1rem;
+        flex-wrap: wrap; 
+    }
+</style>
+
+@if (TempData["UptMsg"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["UptMsg"]
+    </div>
+}
+@if (TempData["SuccessMsg"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMsg"]
+    </div>
+}
+
+<a asp-action="AddProducts" class="btn btn-info">Add Products</a>
+<br />
+<br />
+
+<div class="card-container">
+    @foreach (var d in Model)
+    {
+        <div class="card">
+            <img class="card-img-top" src="/@d.ProPhoto" alt="Card image cap">
+            <div class="card-body">
+                <h5 class="card-title">@d.ProName</h5>
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">@d.Description</li>
+                <li class="list-group-item"><b>@d.Price</b></li>
+            </ul>
+            <div class="card-body">
+                <a class="btn btn-warning" asp-action="Update" asp-route-id="@d.Id">Edit</a>
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@d.Id" onclick="return confirm('Are you sure to delete this product?')">Delete</a>
+            </div>
+        </div>
+    }
+</div>

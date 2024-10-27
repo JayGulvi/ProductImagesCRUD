@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|c:\\users\\jay gulvi\\source\\repos\\imageuploadcrud\\imageuploadcrud\\views\\imageproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|solutionrelative:imageuploadcrud\\views\\imageproducts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|c:\\users\\jay gulvi\\source\\repos\\imageuploadcrud\\imageuploadcrud\\controllers\\imageproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|solutionrelative:imageuploadcrud\\controllers\\imageproductscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|c:\\users\\jay gulvi\\source\\repos\\imageuploadcrud\\imageuploadcrud\\views\\imageproducts\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|solutionrelative:imageuploadcrud\\views\\imageproducts\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|c:\\users\\jay gulvi\\source\\repos\\imageuploadcrud\\imageuploadcrud\\models\\productslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|solutionrelative:imageuploadcrud\\models\\productslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|c:\\users\\jay gulvi\\source\\repos\\imageuploadcrud\\imageuploadcrud\\views\\imageproducts\\addproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|solutionrelative:imageuploadcrud\\views\\imageproducts\\addproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|c:\\users\\jay gulvi\\source\\repos\\imageuploadcrud\\imageuploadcrud\\models\\productlistimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|solutionrelative:imageuploadcrud\\models\\productlistimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|c:\\users\\jay gulvi\\source\\repos\\imageuploadcrud\\imageuploadcrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|solutionrelative:imageuploadcrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Migrations\\20241027071320_pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ImageUploadCRUD\\Migrations\\20241027071320_pro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|c:\\users\\jay gulvi\\source\\repos\\imageuploadcrud\\imageuploadcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|solutionrelative:imageuploadcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|c:\\users\\jay gulvi\\source\\repos\\imageuploadcrud\\imageuploadcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|solutionrelative:imageuploadcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|c:\\users\\jay gulvi\\source\\repos\\imageuploadcrud\\imageuploadcrud\\migrations\\20241026175736_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DB472E8-B90B-403D-A2DE-418F87DB5F3F}|ImageUploadCRUD\\ImageUploadCRUD.csproj|solutionrelative:imageuploadcrud\\migrations\\20241026175736_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Views\\ImageProducts\\Update.cshtml",
+              "RelativeDocumentMoniker": "ImageUploadCRUD\\Views\\ImageProducts\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Views\\ImageProducts\\Update.cshtml",
+              "RelativeToolTip": "ImageUploadCRUD\\Views\\ImageProducts\\Update.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T09:10:36.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20241027071320_pro.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Migrations\\20241027071320_pro.cs",
+              "RelativeDocumentMoniker": "ImageUploadCRUD\\Migrations\\20241027071320_pro.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Migrations\\20241027071320_pro.cs",
+              "RelativeToolTip": "ImageUploadCRUD\\Migrations\\20241027071320_pro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:13:20.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Views\\ImageProducts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ImageUploadCRUD\\Views\\ImageProducts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Views\\ImageProducts\\Index.cshtml",
+              "RelativeToolTip": "ImageUploadCRUD\\Views\\ImageProducts\\Index.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T06:59:38.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Views\\ImageProducts\\AddProducts.cshtml",
+              "RelativeDocumentMoniker": "ImageUploadCRUD\\Views\\ImageProducts\\AddProducts.cshtml",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Views\\ImageProducts\\AddProducts.cshtml",
+              "RelativeToolTip": "ImageUploadCRUD\\Views\\ImageProducts\\AddProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T06:51:04.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImageProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Controllers\\ImageProductsController.cs",
+              "RelativeDocumentMoniker": "ImageUploadCRUD\\Controllers\\ImageProductsController.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Controllers\\ImageProductsController.cs",
+              "RelativeToolTip": "ImageUploadCRUD\\Controllers\\ImageProductsController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAiwEYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:59:03.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241026175736_products.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Migrations\\20241026175736_products.cs",
+              "RelativeDocumentMoniker": "ImageUploadCRUD\\Migrations\\20241026175736_products.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Migrations\\20241026175736_products.cs",
+              "RelativeToolTip": "ImageUploadCRUD\\Migrations\\20241026175736_products.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:57:36.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "ImageUploadCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Program.cs",
+              "RelativeToolTip": "ImageUploadCRUD\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:49:20.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "ImageUploadCRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\appsettings.json",
+              "RelativeToolTip": "ImageUploadCRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T17:48:05.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ImageUploadCRUD\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ImageUploadCRUD\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:47:57.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductListImage.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Models\\ProductListImage.cs",
+              "RelativeDocumentMoniker": "ImageUploadCRUD\\Models\\ProductListImage.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Models\\ProductListImage.cs",
+              "RelativeToolTip": "ImageUploadCRUD\\Models\\ProductListImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:46:31.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsList.cs",
+              "DocumentMoniker": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Models\\ProductsList.cs",
+              "RelativeDocumentMoniker": "ImageUploadCRUD\\Models\\ProductsList.cs",
+              "ToolTip": "C:\\Users\\Jay Gulvi\\source\\repos\\ImageUploadCRUD\\ImageUploadCRUD\\Models\\ProductsList.cs",
+              "RelativeToolTip": "ImageUploadCRUD\\Models\\ProductsList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T17:43:29.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
